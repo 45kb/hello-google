@@ -8,24 +8,24 @@ A designer and frontend maker from Italy who knows about programming and moar.
 
 As an example of UI/UX i choose *ndm* for example - https://720kb.github.io/ndm/
 
-I choose this in order to show everything about my capabilities in terms of Design not only ui/ux.
+I choose this project in order to show you everything about my capabilities in terms of Design and not only Ui/Ux.
 
-In this project i made all you see, from the first pixel to logotype, user interface, app interface all optimized for the web and for Desktop, icons everything you see there is designed by me:
+In this project i made all that catch your eyes,from the first pixel to logotype, user interface, app interface all optimized for the web and for Desktop, icons everything you see there is designed by me:
 
 Project Ideation,
 Logotype,
 UI/UX of the web site and the Desktop APP,
 Responsive Design, all made using a framework.
 
-I really suggest to download the app and see how it interacts.
+I really suggest you to download the app and see how it interacts.
 
-Here https://dribbble.com/45kb are other projects i got involved in but mostly are offline today, mostly web apps and music platforms where i did the ui/ux and frontend design both.
+Here https://dribbble.com/45kb are other projects i got involved in but i have to say majority of the old projects are offline today.
 
-I wanted to be clear and short.
+I wanted to be clear and short at the end.
 
 Is not simple for me to link you other projects as mostly are today replaced by owners, you know they change designers often during the years....
 
-I am not a fan of Rosemary design i have to say i like more flat clean and simple design in general.
+I love graphic design and design in general, i am completely sure i can be of help in any aspect of Design in general as well as graphic and user interfaces, then accessibility of course.
 
 A BIG THANK YOU FOR THIS CHANCHE!
 
