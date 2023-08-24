@@ -37,7 +37,8 @@ Is not simple for me to link you other projects as mostly are today replaced by 
 I love graphic design and design in general, i am completely sure i can be of help in any aspect of Design in general as well as graphic and user interfaces, then accessibility of course.
 
 > More about me
-I come from Italy, Follonica, place of music, arts, sea, sun, colors.
+
+I come from Italy, Follonica, Tuscany, the place of music, arts, sea, sun, colors.
 
 > :) Thanks
 
