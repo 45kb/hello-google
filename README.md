@@ -1,8 +1,6 @@
 <img src="https://github.com/45kb/hello-google/blob/main/1398884-fbd93f542ee04e82bb22dc252ba01329%20(1).png?raw=true"/>
-*HELLO :)*
+*HELLO*
 I am a long fashioned designer and frontend maker from Italy who knows about programming and moar.
-
-BUT TODAY WE ARE TALKING ABOUT UI/UX
 
 I invite you to checkout - ndm project - for example - https://720kb.github.io/ndm/
 
