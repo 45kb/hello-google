@@ -1,8 +1,10 @@
 <img src="https://github.com/45kb/hello-google/blob/main/1398884-fbd93f542ee04e82bb22dc252ba01329%20(1).png?raw=true"/>
-**HELLO :)**
-i am going to show you something i have done about user interface and graphic design in general.
+*HELLO :)*
+I am a long fashioned designer and frontend maker from Italy who knows about programming and moar.
 
-Checkout - ndm project - for example - https://720kb.github.io/ndm/
+BUT TODAY WE ARE TALKING ABOUT UI/UX
+
+I invite you to checkout - ndm project - for example - https://720kb.github.io/ndm/
 
 In this project i made all you see, from the first pixel, logotype, user interface, app interface all optimized, icons everything you see there is designed by me.  i Suggest to download the app and see how it interacts.
 
