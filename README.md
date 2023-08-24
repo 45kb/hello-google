@@ -4,7 +4,7 @@
 
 ## Here i am!
 
-A designer and frontend maker from Italy who knows about programming and moar.
+A designer and web designer from Italy who knows about programming , graphic design and moar.
 
 ## Example
 
@@ -35,7 +35,8 @@ I love graphic design and design in general, i am completely sure i can be of he
 ## More about me
 I come from Italy, Follonica, place of music, sea, sun, colors.
 
+## :) Thanks
 
-## :)
+
 
 
