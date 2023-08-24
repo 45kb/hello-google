@@ -25,7 +25,8 @@ I really suggest you to download the app and see how it interacts.
 
 > More design
 
-Here https://dribbble.com/45kb are other projects i got involved in but i have to say majority of the old projects are offline today.
+Here: https://dribbble.com/45kb are other projects i got involved in
+Just... i have to say majority of the old projects are offline today.
 
 I wanted to be clear and short at the end.
 
@@ -34,7 +35,7 @@ Is not simple for me to link you other projects as mostly are today replaced by 
 I love graphic design and design in general, i am completely sure i can be of help in any aspect of Design in general as well as graphic and user interfaces, then accessibility of course.
 
 > More about me
-I come from Italy, Follonica, place of music, sea, sun, colors.
+I come from Italy, Follonica, place of music, arts, sea, sun, colors.
 
 > :) Thanks
 
