@@ -2,7 +2,7 @@
 ## UI/UX - Quick portfolio
 <img src="https://github.com/45kb/hello-google/blob/main/1398884-fbd93f542ee04e82bb22dc252ba01329%20(1).png?raw=true"/>
 
-### Hi!
+## OK!
 
 A designer and frontend maker from Italy who knows about programming and moar.
 
