@@ -53,8 +53,9 @@ Finally optimize accessibility with all of the things that must be done (if need
 Here: 
 https://dribbble.com/45kb 
 
-You can find other projects i got involved in
-Just... i have to say that the majority of the old projects are offline today.
+You can find other projects i got involved in.
+
+Just... i must admit that the majority of the old projects are offline today.
 
 I wanted to be clear and short at the end.
 
