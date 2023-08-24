@@ -6,7 +6,7 @@
 
 A designer and frontend maker from Italy who knows about programming and moar.
 
-## The project
+## Example
 
 As an example of UI/UX i choose *ndm* for example - https://720kb.github.io/ndm/
 
