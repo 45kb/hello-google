@@ -12,6 +12,8 @@ I choose this project in order to show you everything about my capabilities in t
 
 In this project i made all that catch your eyes,from the first pixel to logotype, user interface, app interface all optimized for the web and for Desktop, icons everything you see there is designed by me:
 
+## what i made 
+
 Project Ideation,
 Logotype,
 UI/UX of the web site and the Desktop APP,
@@ -19,6 +21,7 @@ Responsive Design, all made using a framework.
 
 I really suggest you to download the app and see how it interacts.
 
+## more design
 Here https://dribbble.com/45kb are other projects i got involved in but i have to say majority of the old projects are offline today.
 
 I wanted to be clear and short at the end.
