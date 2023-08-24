@@ -24,6 +24,7 @@ Responsive Design, all made using a framework.
 I really suggest you to download the app and see how it interacts.
 
 > More design
+
 Here https://dribbble.com/45kb are other projects i got involved in but i have to say majority of the old projects are offline today.
 
 I wanted to be clear and short at the end.
