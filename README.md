@@ -1,9 +1,6 @@
-**HELLO**
-THIS
-***IS***
-PART
-of my
-*PORTFOLIO* around...
+![Alt text](https://ibb.co/fSJxHN4)
+**HELLO :)**
+i am going to show you something i have done about user interface and graphic design in general.
 
 Checkout - ndm project - for example - https://720kb.github.io/ndm/
 
