@@ -12,9 +12,9 @@ As an example of UI/UX i choose *ndm* for example - https://720kb.github.io/ndm/
 
 I choose this project in order to show you everything about my capabilities in terms of Design and not only Ui/Ux.
 
-In this project i made all that catch your eyes,from the first pixel to logotype, user interface, app interface all optimized for the web and for Desktop, icons everything you see there is designed by me:
+## what i made
 
-## what i made 
+In this project i made all that catch your eyes,from the first pixel to logotype, user interface, app interface all optimized for the web and for Desktop, icons everything you see there is designed by me: 
 
 Project Ideation,
 Logotype,
@@ -32,6 +32,10 @@ Is not simple for me to link you other projects as mostly are today replaced by 
 
 I love graphic design and design in general, i am completely sure i can be of help in any aspect of Design in general as well as graphic and user interfaces, then accessibility of course.
 
-A BIG THANK YOU FOR THIS CHANCHE!
+## more about me
+I come from Italy, Follonica, place of music, sea, sun, colors.
+
+
+## Thanks a lot!
 
 
