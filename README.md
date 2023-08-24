@@ -23,12 +23,15 @@ Responsive Design.
 
 I really suggest you to download the app and see how it interacts.
 
-Probably not theb est project i did in past, but surely the one who makes me happy because it's even appreciated a lot by the open source community.
+Probably not the best project i did in the past, but surely the one who makes me happy because it's appreciated a lot by the open source community.
 
 > More design
 
-Here: https://dribbble.com/45kb are other projects i got involved in
-Just... i have to say majority of the old projects are offline today.
+Here: 
+https://dribbble.com/45kb 
+
+You can find other projects i got involved in
+Just... i have to say that the majority of the old projects are offline today.
 
 I wanted to be clear and short at the end.
 
@@ -40,7 +43,7 @@ I love graphic design and design in general, i am completely sure i can be of he
 
 I come from Italy, Follonica, Tuscany, the place of music, arts, sea, sun, colors.
 
-> :) Thanks
+> :) Thanks a lot
 
 
 
