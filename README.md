@@ -25,6 +25,23 @@ I really suggest you to download the app and see how it interacts.
 
 Probably not the best project i did in the past, but surely the one who makes me happy because it's appreciated a lot by the open source community.
 
+> Why this design?
+
+This project is a simple but powerfull tool that helps organize and maintain npm modules on your PC.
+Was not that simple, i choosed a clean and funny Design and superlight interface in order to spread a simple message: Download a software and have fun.
+
+> Interactions
+
+I tipically ideate and prototype a design by hand on a paper.....design process for me is:
+
+Create a structure, clean simple.
+Choose the right font.
+Add everything in the right place, make the mission/aim clear. 
+Give dimension balances.
+Make things optimized and responsive.
+Give a touch of art and something that catch the eyes, without being intrusive for the user.
+Finally optimize accessibility with all of the things that must be done (if needed).
+
 > More design
 
 Here: 
