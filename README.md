@@ -1,4 +1,4 @@
-!(github.com/45kb/hello-google/blob/main/1398884-fbd93f542ee04e82bb22dc252ba01329%20(1).png?raw=true)
+![alt text](./1398884-fbd93f542ee04e82bb22dc252ba01329%20(1).png)
 **HELLO :)**
 i am going to show you something i have done about user interface and graphic design in general.
 
