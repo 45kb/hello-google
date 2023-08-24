@@ -12,7 +12,7 @@ As an example of UI/UX i choose *ndm* for example - https://720kb.github.io/ndm/
 
 I choose this project in order to show you everything about my capabilities in terms of Design and not only Ui/Ux.
 
-## what i made
+#### what i made
 
 In this project i made all that catch your eyes,from the first pixel to logotype, user interface, app interface all optimized for the web and for Desktop, icons everything you see there is designed by me: 
 
