@@ -35,11 +35,17 @@ Was not that simple, i choosed a clean and funny Design and superlight interface
 I tipically ideate and prototype a design by hand on a paper.....design process for me is:
 
 Create a structure, clean simple.
+
 Choose the right font.
+
 Add everything in the right place, make the mission/aim clear. 
+
 Give dimension balances.
+
 Make things optimized and responsive.
+
 Give a touch of art and something that catch the eyes, without being intrusive for the user.
+
 Finally optimize accessibility with all of the things that must be done (if needed).
 
 ## More design
