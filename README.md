@@ -14,14 +14,16 @@ I choose this project in order to show you everything about my capabilities in t
 
 > What i made
 
-In this project i made all that catch your eyes,from the first pixel to logotype, user interface, app interface all optimized for the web and for Desktop, icons everything you see there is designed by me: 
+In this project i made all that catch your eyes, from the first pixel to logotype, user interface, app interface, all optimized for the web and for Desktop, every single pixel is designed by me both online and offline.
 
 Project Ideation,
 Logotype,
 UI/UX of the web site and the Desktop APP,
-Responsive Design, all made using a framework.
+Responsive Design.
 
 I really suggest you to download the app and see how it interacts.
+
+Probably not theb est project i did in past, but surely the one who makes me happy because it's even appreciated a lot by the open source community.
 
 > More design
 
