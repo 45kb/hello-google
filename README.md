@@ -14,7 +14,7 @@ I choose this project in order to show you everything about my capabilities in t
 
 ## What i made
 
-In this project i made all that catch your eyes, from the first pixel to logotype, user interface, app interface, all optimized for the web and for Desktop, every single pixel is designed by me both online and offline.
+In this project i made all that's chatching your eyes, from the first pixel to logotype, user interface, app interface, all optimized for the web and for Desktop, every single pixel is designed by me both online and offline.
 
 Project Ideation,
 Logotype,
