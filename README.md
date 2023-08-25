@@ -8,7 +8,7 @@ A designer and web designer from Italy who knows about programming , graphic des
 
 ## Example
 
-As an example of UI/UX i choose *ndm* for example - https://720kb.github.io/ndm/
+As an example of UI/UX i choose *ndm* project, i project i designed and ideate - https://720kb.github.io/ndm/
 
 I choose this project in order to show you everything about my capabilities in terms of Design and not only Ui/Ux.
 
@@ -71,7 +71,7 @@ I love graphic design and design in general, i am completely sure i can be of he
 
 I come from Italy, Follonica, Tuscany, the place of music, arts, sea, sun, colors.
 
-## :) Thanks a lot
+## :) 
 
 
 
