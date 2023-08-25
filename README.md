@@ -27,8 +27,12 @@ Probably not the best project i did in the past, but surely the one who makes me
 
 ## Why this design?
 
-This project is a simple but powerfull tool that helps organize and maintain npm modules on your PC.
-Was not that simple, i choosed a clean and funny Design and superlight interface in order to spread a simple message: Download a software and have fun.
+This project is a simple but powerful tool that helps organize and maintain npm modules on your PC.
+Was not that simple, i choosed a clean and funny Design and superlight interface in order to spread a simple message: Download a software and have fun!
+
+For making life easier everything is shiny clear and neat as much as possible.
+
+The logotype is inspired to a pizza bag, like if you can eat it, which is tasty.
 
 ## Interactions
 
