@@ -34,7 +34,7 @@ For making life easier everything is shiny clear and neat as much as possible.
 
 The logotype is inspired to a pizza bag, like if you can eat it, which is tasty.
 
-## Interactions
+## Design process for me
 
 I tipically ideate and prototype a design by hand on a paper.....design process for me is:
 
