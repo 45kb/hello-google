@@ -23,7 +23,7 @@ Responsive Design.
 
 I really suggest you to download the app and see how it interacts.
 
-Probably not the best project i did in the past, but surely the one who makes me happy because it's appreciated a lot by the open source community.
+Probably not the best project i did in the past, but surely the one who makes me happy because it's appreciated a lot by the open source community (got 66k downloads and counting)
 
 ## Why this design?
 
